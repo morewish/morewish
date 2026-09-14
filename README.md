@@ -1,16 +1,33 @@
-## Hi there 👋
+<div align="center">
 
-<!--
-**morewish/morewish** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Wish
 
-Here are some ideas to get you started:
+### Software Developer
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**Fullstack Developer & Builder**
+
+</div>
+
+---
+
+## 👋 About Me
+
+I'm a Software Developer from Canada 🇨🇦
+
+I enjoy building things, learning new technologies, and turning ideas into working software.
+
+---
+
+## 🛠️ Technologies
+
+### Languages
+
+<p>
+  <img src="https://skillicons.dev/icons?i=ts,js,python,java,cs,cpp,c,rust,php,dart" />
+</p>
+
+### Frameworks & Tools
+
+<p>
+  <img src="https://skillicons.dev/icons?i=react,reactnative,nodejs,express,nestjs,docker,linux,git,aws" />
+</p>
