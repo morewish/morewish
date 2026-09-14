@@ -18,34 +18,28 @@ I enjoy building things, learning new technologies, and turning ideas into worki
 
 ---
 
-## 🛠️ Technologies
-
-### 🌐 Frontend
+## 🛠️ Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,react,reactnative" />
+  <img src="https://skillicons.dev/icons?i=ts,js,python,java,cs,cpp,c,rust,php,dart,kotlin" />
 </p>
 
-### ⚙️ Backend
-
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=nodejs,express,nestjs" />
+  <img src="https://skillicons.dev/icons?i=html,css,react,nextjs,vue,angular,tailwind,bootstrap" />
 </p>
 
-### 🗄️ Databases
-
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=mongodb,mysql,postgres,sqlite,oracle" />
+  <img src="https://skillicons.dev/icons?i=nodejs,express,nestjs,fastapi,spring,dotnet,graphql" />
 </p>
 
-### 🛠️ Tools & Infrastructure
-
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=git,github,docker,linux,nginx,aws,bash" />
+  <img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,sqlite,redis,firebase,supabase" />
 </p>
 
-### 🎮 Game Development
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=git,github,gitlab,docker,kubernetes,linux,nginx,aws,azure,gcp" />
+</p>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=unity,unreal" />
+  <img src="https://skillicons.dev/icons?i=unity,unreal,androidstudio,vscode,visualstudio,figma" />
 </p>
