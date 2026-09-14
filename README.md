@@ -20,14 +20,32 @@ I enjoy building things, learning new technologies, and turning ideas into worki
 
 ## 🛠️ Technologies
 
-### Languages
+### 🌐 Frontend
 
-<p>
-  <img src="https://skillicons.dev/icons?i=ts,js,python,java,cs,cpp,c,rust,php,dart" />
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,react,reactnative" />
 </p>
 
-### Frameworks & Tools
+### ⚙️ Backend
 
-<p>
-  <img src="https://skillicons.dev/icons?i=react,reactnative,nodejs,express,nestjs,docker,linux,git,aws" />
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=nodejs,express,nestjs" />
+</p>
+
+### 🗄️ Databases
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=mongodb,mysql,postgres,sqlite,oracle" />
+</p>
+
+### 🛠️ Tools & Infrastructure
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=git,github,docker,linux,nginx,aws,bash" />
+</p>
+
+### 🎮 Game Development
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=unity,unreal" />
 </p>
