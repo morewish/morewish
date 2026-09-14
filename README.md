@@ -1,10 +1,16 @@
 <div align="center">
 
-# Wish
+# ✦ Wish
 
 ### Software Developer
 
 **Fullstack Developer & Builder**
+
+🇨🇦 Canada
+
+<br>
+
+<img src="https://komarev.com/ghpvc/?username=morewish&label=PROFILE%20VIEWS&color=7c3aed&style=for-the-badge" />
 
 </div>
 
@@ -12,34 +18,18 @@
 
 ## 👋 About Me
 
-I'm a Software Developer from Canada 🇨🇦
+I'm **Wish**, a Software Developer from Canada 🇨🇦.
 
-I enjoy building things, learning new technologies, and turning ideas into working software.
+I enjoy building software from the ground up, exploring new technologies,
+and turning ideas into practical and reliable solutions.
 
----
+I'm comfortable working across the stack — from **frontend interfaces**
+to **backend services, databases, APIs, and infrastructure**.
 
-## 🛠️ Tech Stack
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=ts,js,python,java,cs,cpp,c,rust,php,dart,kotlin" />
-</p>
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,react,nextjs,vue,angular,tailwind,bootstrap" />
-</p>
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=nodejs,express,nestjs,fastapi,spring,dotnet,graphql" />
-</p>
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,sqlite,redis,firebase,supabase" />
-</p>
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=git,github,gitlab,docker,kubernetes,linux,nginx,aws,azure,gcp" />
-</p>
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=unity,unreal,androidstudio,vscode,visualstudio,figma" />
-</p>
+```text
+💻 Software Development
+🌐 Fullstack Web Development
+⚙️ Backend & APIs
+🗄️ Databases & Architecture
+☁️ Cloud & Infrastructure
+🎮 Game Development
